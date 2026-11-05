@@ -13,6 +13,14 @@
 1. Установите зависимости:
    ```bash
    pip install pyTelegramBotAPI python-dotenv
+2. Откройте rembot.py в любом редакторе кода с поддержкой Python
+3. В переменной bot измените токен на свой:
+   ```python
+   bot = telebot.TeleBot('вставить токен сюда')
+4. Запускать бота командой python rembot.py
+5. Найти бота в Telegram по юзернейму: @uinrembot
+6. ?????????????????????
+7. БОТ РАБОТАЕТ!
 
 ## Справка
 
